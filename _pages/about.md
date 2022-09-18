@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1011</p>
+    <p>Office #1011</p>
     <p>162 5th Ave</p>
     <p>New York, NY 10010</p>
 
