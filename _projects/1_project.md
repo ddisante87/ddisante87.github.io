@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: BITMAP
+description: aB-IniTio calculations and MAchine learning for suPerconducting collective phenomena in novel materials
 img: assets/img/12.jpg
 importance: 1
 category: work
