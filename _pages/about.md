@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Bologna</a>, <a href='#'>CCQ Flatiron Institute (New York)</a>
+subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a> and <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/'>CCQ Flatiron Institute (New York)</a>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>162 5th Ave</p>
     <p>New York, NY 10010</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
