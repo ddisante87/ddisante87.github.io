@@ -2,7 +2,7 @@
 layout: page
 title: BITMAP
 description: aB-IniTio calculations and MAchine learning for suPerconducting collective phenomena in novel materials
-img: assets/img/12.jpg
+img: assets/img/BITMAP_logo.jpg
 importance: 1
 category: research
 ---
