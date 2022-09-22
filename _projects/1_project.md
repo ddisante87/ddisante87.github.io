@@ -13,6 +13,8 @@ However, it is not easy to imagine a meeting point between these two revolutiona
 
 Phenomena and properties such as magnetism and superconductivity owe their origin to the way elementary particles, electrons, interact with each other. The description of these interactions, and the phenomenologies that emerge from them, have occupied the minds of the best physicists for more than a century. Many theoretical models have thus been developed, but none of them has so far been able to give a definite answer to the "many electron problem".
 
+**Deep Learning the Functional Renormalization Group**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
