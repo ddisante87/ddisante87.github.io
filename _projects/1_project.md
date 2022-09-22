@@ -7,17 +7,8 @@ importance: 1
 category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+	Artificial intelligence and quantum materials are now revolutionizing the way we relate to the world. The first, in its machine learning and deep learning facets, is now present in every aspect of our lives, from smartphones to automation in our homes. Quantum materials, obeying the bizarre rules of quantum mechanics, promise instead to play a fundamental role in the field of new technologies and sustainable energies.
     ---
 
 <div class="row">
