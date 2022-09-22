@@ -7,9 +7,11 @@ importance: 1
 category: research
 ---
 
-    ---
-	Artificial intelligence and quantum materials are now revolutionizing the way we relate to the world. The first, in its machine learning and deep learning facets, is now present in every aspect of our lives, from smartphones to automation in our homes. Quantum materials, obeying the bizarre rules of quantum mechanics, promise instead to play a fundamental role in the field of new technologies and sustainable energies.
-    ---
+Artificial intelligence and quantum materials are now revolutionizing the way we relate to the world. The first, in its machine learning and deep learning facets, is now present in every aspect of our lives, from smartphones to automation in our homes. Quantum materials, obeying the bizarre rules of quantum mechanics, promise instead to play a fundamental role in the field of new technologies and sustainable energies.
+
+However, it is not easy to imagine a meeting point between these two revolutionary spheres. Nevertheless, more and more often in recent years, artificial intelligence and the quantum description of the world around us have intersected, thus giving rise to new methods for studying the microscopic behavior of matter.
+
+Phenomena and properties such as magnetism and superconductivity owe their origin to the way elementary particles, electrons, interact with each other. The description of these interactions, and the phenomenologies that emerge from them, have occupied the minds of the best physicists for more than a century. Many theoretical models have thus been developed, but none of them has so far been able to give a definite answer to the "many electron problem".
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
