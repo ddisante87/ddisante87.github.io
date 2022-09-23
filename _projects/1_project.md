@@ -56,14 +56,14 @@ non-linear dynamical systems.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/architecture.pdf" title="example image" %}
+        {% include figure.html path="assets/img/architecture.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/latent_space_final.pdf" title="example image" %}
+        {% include figure.html path="assets/img/latent_space_final.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    **Left:** The deep learning architecture. **Right** Correlation matrix of the latent vectors.
 </div>
 
 The work is the result of the Marie Curie BITMAP research project,
