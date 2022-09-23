@@ -56,10 +56,10 @@ non-linear dynamical systems.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/architecture.pdf" title="example image" class="img-fluid" %}
+        {% include figure.html path="assets/img/architecture.pdf" title="example image" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/latent_space_final.pdf" title="example image" class="img-fluid" %}
+        {% include figure.html path="assets/img/latent_space_final.pdf" title="example image" %}
     </div>
 </div>
 <div class="caption">
