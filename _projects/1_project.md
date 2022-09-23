@@ -63,7 +63,7 @@ non-linear dynamical systems.
     </div>
 </div>
 <div class="caption">
-    **Left:** The deep learning architecture. **Right** Correlation matrix of the latent vectors.
+    Left: The deep learning architecture. Right: Correlation matrix of the latent vectors.
 </div>
 
 The work is the result of the Marie Curie BITMAP research project,
