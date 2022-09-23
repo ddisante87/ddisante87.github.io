@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: kagome metals
+description: The fascinating physics of the kagome lattices
+img: assets/img/kagome.jpg
+importance: 1
 category: research
 ---
 
