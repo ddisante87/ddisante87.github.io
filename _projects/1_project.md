@@ -54,6 +54,15 @@ been analyzed in the context of Koopman's spectral theory, which in the
 last decade it has emerged as the dominant perspective in the study of
 non-linear dynamical systems.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/architecture.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/architecture.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
