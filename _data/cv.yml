@@ -28,15 +28,13 @@
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: University of Bologna, Bologna, Italy
+      institution: University of Bologna, Italy
       year: 2021 - now
       description:
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Marie Curie Research Fellow
+      institution: Center for Computational Quantum Physics, Flatiron Institute, New York, US
+      year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
