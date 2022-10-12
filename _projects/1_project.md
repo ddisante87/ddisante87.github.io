@@ -42,17 +42,17 @@ mathematical language of the physical interpretation of all natural
 phenomena, from the movement of celestial stars, to weather forecasts,
 right up to the quantum behavior of elementary particles.
 
-Our research work has shown, for the first time, how these differential
-equations can be efficiently described, and above all simplified,
-through suitable neural networks that form the basis of the so-called
-deep learning. Hence the title of the publication <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402'>Deep learning the
-functional renormalization group</a>. Furthermore,
-since the functional renormalization group provides a temporal dynamics
-in the so-called *renormalization time*, which in our case is the
-temperature of the interacting electron system, the problem has also
-been analyzed in the context of Koopman's spectral theory, which in the
-last decade it has emerged as the dominant perspective in the study of
-non-linear dynamical systems.
+> Our research work has shown, for the first time, how these differential
+> equations can be efficiently described, and above all simplified,
+> through suitable neural networks that form the basis of the so-called
+> deep learning. Hence the title of the publication <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402'>Deep learning the
+> functional renormalization group</a>. Furthermore,
+> since the functional renormalization group provides a temporal dynamics
+> in the so-called *renormalization time*, which in our case is the
+> temperature of the interacting electron system, the problem has also
+> been analyzed in the context of Koopman's spectral theory, which in the
+> last decade it has emerged as the dominant perspective in the study of
+> non-linear dynamical systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
