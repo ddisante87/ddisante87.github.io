@@ -15,12 +15,12 @@
       institution: University of LAquila, Italy
       year: 2015
       description:
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master in Physics
+      institution: University of LAquila, Italy
+      year: 2011
+   - title: Bachelor in Physics
+      institution: University of LAquila, Italy
+      year: 2009
 
 - title: Experience
   type: time_table
