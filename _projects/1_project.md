@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning for Quantum Physics 
 description: Exploring the power of Artificial Intelligence for Many Body Quantum Systems
-img: assets/img/BITMAP_logo.jpg
+img: assets/img/MLforPhysics.jpg
 importance: 1
 category: research
 ---
