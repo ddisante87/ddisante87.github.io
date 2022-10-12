@@ -11,4 +11,9 @@ The kagome lattice has emerged as a prototypical playground for sought-after qua
 
 Kagome systems represent an exciting direction of modern condensed matter physics, and here a list of my recent works in this field.
 
-1. Turbulent hydrodynamics in strongly correlated Kagome metals
+1. <a href='https://www.nature.com/articles/s41467-020-17663-x'>Turbulent hydrodynamics in strongly correlated Kagome metals</a>
+2. <a href='https://doi.org/10.1088%2F2515-7639%2Fab713b'>Kagome metal-organic frameworks as a platform for strongly correlated electrons</a>
+3. <a href='https://link.aps.org/doi/10.1103/PhysRevLett.127.177001'>Nature of Unconventional Pairing in the Kagome Superconductors AV3Sb5 (A = K;Rb;Cs)</a>
+4. <a href='https://link.aps.org/doi/10.1103/PhysRevB.105.165146'>Van Hove tuning of AV3Sb5 kagome metals under pressure and strain</a>
+5. <a href='https://www.nature.com/articles/s41567-021-01451-5'>Twofold van Hove singularity and origin of charge order in topological kagome superconductor CsV3Sb5</a>
+6. <a href='https://arxiv.org/abs/2203.05038'>Electronic correlations and universal long-range scaling in kagome metals</a>
