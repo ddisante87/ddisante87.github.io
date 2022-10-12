@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Ciao
+      value: Domenico Di Sante
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th April 1987
     - name: Languages
-      value: English, German
+      value: English, Italian
 
 - title: Education
   type: time_table
