@@ -14,22 +14,28 @@
     - title: PhD in Physics
       institution: University of LAquila, Italy
       year: 2015
+      description:
     - title: Master in Physics
       institution: University of LAquila, Italy
       year: 2011
+      description:
      - title: Bachelor in Physics
       institution: University of LAquila, Italy
       year: 2009
+      description:
 
 - title: Experience
   type: time_table
   contents:
     - title: Assistant Professor
       institution: University of Bologna, Bologna, Italy
-      year: 2021
+      year: 2021-now
+      description:
     - title: Marie Curie Research Fellow
       institution: Center for Computational Quantum Physics, Flatiron Institute, New York, US
-      year: 2021
+      year: 2021-now
+      description:
     - title: Akademisher Rat
       institution: University of Wuerzburg, Wuerzburg, Germany
       year: 2016 - 2021
+      description:
