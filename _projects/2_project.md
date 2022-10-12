@@ -26,3 +26,7 @@ Kagome systems represent an exciting direction of modern condensed matter physic
 <div class="caption">
     A visualization of the zero-energy electronic states — also known as a Fermi surface — from the kagome material studied in <a href='https://www.nature.com/articles/s41567-021-01451-5'>Nature Physics **18**, 301 (2022)</a> (Credits: Riccardo Comin).
 </div>
+
+Divulgation and Outreach:
+
+<a href='https://news.mit.edu/2022/physicists-discover-secret-sauce-behind-exotic-properties-new-quantum-material-0121'>Physicists discover "secret sauce" behind exotic properties of a new quantum material</a>
