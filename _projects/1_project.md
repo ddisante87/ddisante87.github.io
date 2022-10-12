@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning for Quantum Physics 
-description: Exploring the power of Artificial Intelligence for Many Body Quantum Systems
+description: Exploring Artificial Intelligence for Many Body Quantum Systems
 img: assets/img/MLforPhysics.jpg
 importance: 1
 category: research
