@@ -73,3 +73,21 @@ of the project. The main purpose of the
 BITMAP project is precisely to explore possible applications of
 artificial intelligence and machine learning in the context of
 describing the interaction between electrons in quantum materials.
+
+Some Outreach:
+
+<a href='https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations'>Artificial Intelligence Reduces a 100,000-Equation Quantum Physics Problem to Only Four Equations</a>
+
+<a href='https://www.insidequantumtechnology.com/news-archive/how-artificial-intelligence-is-reducing-100000-equations-in-a-quantum-physics-problem-to-only-4-equations'>How Artificial Intelligence is Reducing 100,000 Equations in a Quantum Physics Problem to Only 4 Equations</a>
+
+<a href='https://magazine.unibo.it/archivio/2022/10/10/fisica-quantistica-da-100-000-a-quattro-equazioni-grazie-all2019intelligenza-artificiale'>Fisica quantistica: da 100.000 a quattro equazioni, grazie all’intelligenza artificiale</a>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Vertex.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A visualization of a mathematical apparatus used to capture the physics and behavior of electrons moving on a lattice. Each pixel represents a single interaction between two electrons. Until now, accurately capturing the system required around 100,000 equations — one for each pixel. Using machine learning, scientists reduced the problem to just four equations. That means a similar visualization for the compressed version would need just four pixels.
+</div>
+
