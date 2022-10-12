@@ -17,3 +17,12 @@ Kagome systems represent an exciting direction of modern condensed matter physic
 4. <a href='https://link.aps.org/doi/10.1103/PhysRevB.105.165146'>Van Hove tuning of AV3Sb5 kagome metals under pressure and strain</a> (2022)
 5. <a href='https://www.nature.com/articles/s41567-021-01451-5'>Twofold van Hove singularity and origin of charge order in topological kagome superconductor CsV3Sb5</a> (2022)
 6. <a href='https://arxiv.org/abs/2203.05038'>Electronic correlations and universal long-range scaling in kagome metals</a> (2022)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Comin.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A visualization of the zero-energy electronic states — also known as a Fermi surface — from the kagome material studied in <a href='https://www.nature.com/articles/s41567-021-01451-5'>Nature Physics **18**, 301 (2022)</a> (Credits: Riccardo Comin).
+</div>
