@@ -1,7 +1,6 @@
 - title: General Information
   type: map
   contents:
-  
     - name: Full Name
       value: Domenico Di Sante
     - name: Date of Birth
@@ -12,15 +11,12 @@
 - title: Education
   type: time_table
   contents:
-  
     - title: PhD in Physics
       institution: University of LAquila, Italy
       year: 2015
-      
     - title: Master in Physics
       institution: University of LAquila, Italy
       year: 2011
-      
      - title: Bachelor in Physics
       institution: University of LAquila, Italy
       year: 2009
@@ -28,15 +24,12 @@
 - title: Experience
   type: time_table
   contents:
-  
     - title: Assistant Professor
       institution: University of Bologna, Bologna, Italy
       year: 2021-NOW
-      
     - title: Marie Curie Research Fellow
       institution: Center for Computational Quantum Physics, Flatiron Institute, New York, US
       year: 2021-NOW
-
     - title: Akademisher Rat
       institution: University of Wuerzburg, Wuerzburg, Germany
       year: 2016-2021
