@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BITMAP
-description: aB-IniTio calculations and MAchine learning for suPerconducting collective phenomena in novel materials
+title: Machine Learning for Quantum Physics 
+description: Exploring the power of Artificial Intelligence for Many Body Quantum Systems
 img: assets/img/BITMAP_logo.jpg
 importance: 1
 category: research
@@ -63,10 +63,9 @@ right up to the quantum behavior of elementary particles.
     The deep learning architecture used in the publication.
 </div>
 
-The work is the result of the Marie Curie BITMAP research project,
-funded by the European community under the Horizon 2020 initiative, of
-which the University of Bologna is a beneficiary through the Department
-of Physics. The work was carried out mainly in New York, at the
+> The work is the result of the Marie Curie **BITMAP** research project, funded by the European community under the Horizon 2020 initiative, of which the University of Bologna is a beneficiary through the Department of Physics.
+
+The work was carried out mainly in New York, at the
 prestigious Center for Computational Quantum Physics of the Flatiron
 Institute of the Simons Foundations, during the so-called outgoing phase
 of the project. The main purpose of the
