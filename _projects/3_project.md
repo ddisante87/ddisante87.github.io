@@ -25,3 +25,7 @@ imposed by the underlying supporting substrate. The low-energy bandstructure, th
 <div class="caption">
     Comparison of ARPES and DFT band structure of Indenene — from our manuscript <a href='https://www.nature.com/articles/s41467-021-25627-y'>Nature Communications 12, 5396 (2021)</a>.
 </div>
+
+Divulgation and Outreach:
+
+<a href='https://www.ctqmat.de/en/news/2021-09-14-triangular-honeycombs-physicists-design-novel-quantum-material'>Triangular Honeycombs: Physicists design novel quantum material</a>
