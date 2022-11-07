@@ -41,3 +41,23 @@ Moreover, the concept of obstruction is intimately linked to that of higher-orde
 Divulgation and Outreach:
 
 <a href='https://www.ctqmat.de/en/news/2021-09-14-triangular-honeycombs-physicists-design-novel-quantum-material'>Triangular Honeycombs: Physicists design novel quantum material</a>
+
+
+## Bismuthene and Topology - aka the secret sauce for exciting excitons
+
+The physics of a quasiparticle called an exciton — responsible for transferring energy within devices such as solar cells and LEDs — has been understood for decades. In essence, excitons are excited particles that form when negatively charged electrons bind to positively charged holes. Electron correlations are the glue responsible for such a bound state. Besides excitons, electron correlation is at the heart of phenomena such as magnetism and superconductivity, and we aim to blend it seamlessly with topology, a new paradigm for quantum materials.
+
+Topology and excitons have hitherto eluded a clear connection. Now we found the first evidence of an existing relationship. The protagonist of this research is Bimsuthene, the tycoon of topological insulators discovered in 2018 in Wuerzburg and a heavy sibling of graphene. Bismuthene features unique properties among topological insulators, such as a huge gap that allows for a tightly-bound exciton. The work relied on the first-ever optical excitation in a topological insulator and sought a connection between photonics and topological electronics. This research was made possible by marrying an outstanding experimental technique known as spatially-resolved photo-modulated reflectivity with cutting-edge many-body modeling.  
+
+The reported evidence of an exciton in a topological quantum material is the starting point for exploring the role of topology in optical applications. It stands as the first groundbreaking advance in understanding topology's role in bound electron-hole pairs. Under this light, topology represents the "secret sauce" whose action still deserves future investigations but undoubtedly enriches the exciting field of excitons.
+
+The work was supported by the Wuerzburg SFB ToCoTronics, the Wuerzburg-Dresden cluster of excellence ct.qmat, the Polish National Science Center, and of course the European Union's Horizon 2020 research and innovation program wit my BITMAP project. The research is published in the journal <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications</a>.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bismuthene_excitons.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (left) Photo-modulated reflectivity showing two clear excitonic absorption peaks and (right) A exciton's wavefunction — from <a href='https://arxiv.org/abs/2209.12915'>arXiv:2209.12915 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications 13, 6313 (2022)</a>.
+</div> 
