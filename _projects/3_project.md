@@ -59,5 +59,5 @@ The work was supported by the Wuerzburg SFB ToCoTronics, the Wuerzburg-Dresden c
     </div>
 </div>
 <div class="caption">
-    (left) Photo-modulated reflectivity showing two clear excitonic absorption peaks and (right) A exciton's wavefunction — from <a href='https://arxiv.org/abs/2209.12915'>arXiv:2209.12915 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications 13, 6313 (2022)</a>.
+    (left) Photo-modulated reflectivity showing two clear excitonic absorption peaks and (right) A exciton's wavefunction — from <a href='https://arxiv.org/abs/2209.12915'>arXiv:2209.12915 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications 13, 6313 (2022)</a> (Credits for the inset: Marcin Syperek and Pawel Holewa).
 </div> 
