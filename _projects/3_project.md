@@ -35,7 +35,7 @@ Moreover, the concept of obstruction is intimately linked to that of higher-orde
     </div>
 </div>
 <div class="caption">
-    (left) Numerical evidence for "obstruction" of the quantum spin-Hall phase — from <a href='https://arxiv.org/abs/2209.12915'>arXiv:2209.12915 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://arxiv.org/abs/2207.01359.pdf'>arXiv:2207.01359 (2022)</a>.
+    (left) Numerical evidence for "obstruction" of the quantum spin-Hall phase — from <a href='https://arxiv.org/abs/2209.12915'>arXiv:2209.12915 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://arxiv.org/abs/2207.01359'>arXiv:2207.01359 (2022)</a>.
 </div> 
 
 Divulgation and Outreach:
