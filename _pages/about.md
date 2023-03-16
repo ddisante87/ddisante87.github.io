@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office #1011</p>
-    <p>162 5th Ave</p>
-    <p>New York, NY 10010</p>
+    <p>Office C004</p>
+    <p>Viale C. Berti Pichat 6/2</p>
+    <p>40127 Bologna, Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
