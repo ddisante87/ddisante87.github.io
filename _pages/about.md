@@ -26,7 +26,7 @@ subsequently was a postdoctoral fellow and young group leader at the
 Physics Department of the University of Würzburg.
 
 My research is focused on the numerical quantum simulations of the
-electronic properties of non-interacting and interacting material
+electronic properties of interacting material
 systems, with emphasis on topology and spin-orbit driven phenomena. I am
 the principal investigator of an individual Marie Curie fellowship which
 aims at using machine learning applications in condensed matter
