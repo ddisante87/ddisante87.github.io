@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a> and <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/'>CCQ Flatiron Institute (New York)</a>
+subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>
 
 profile:
   align: right
@@ -19,8 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor at the University of Bologna and a Marie
-Curie Research Fellow at the Center for Computational Quantum Physics of
-the Flatiron Institute in New York. I earned a B.S. in physics at the
+Curie Research Fellow. I earned a B.S. in physics at the
 University of L’Aquila in 2011 and a Ph.D. in physics in 2015. I
 subsequently was a postdoctoral fellow and young group leader at the
 Physics Department of the University of Würzburg.
