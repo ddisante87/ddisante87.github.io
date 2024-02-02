@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at the University of Bologna. I earned a B.S. in physics at the
+I am an Assiciate Professor at the University of Bologna. I earned a B.S. in physics at the
 University of L’Aquila in 2011 and a Ph.D. in physics in 2015. I
 subsequently was a postdoctoral fellow and young group leader at the
 Physics Department of the University of Würzburg (2016-2020), and a Marie
@@ -27,7 +27,7 @@ Flatiron Institute in New York (2021-2023).
 
 My research is focused on the numerical quantum simulations of the
 electronic properties of interacting material
-systems, with emphasis on topology and spin-orbit driven phenomena. I am
+systems, with emphasis on topology and spin-orbit driven phenomena. I was
 the principal investigator of an individual Marie Curie fellowship which
 aims at using machine learning applications in condensed matter
 problems.
