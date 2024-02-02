@@ -27,13 +27,17 @@
 - title: Employment
   type: time_table
   contents:
+    - title: Associate Professor
+      institution: University of Bologna, Italy
+      year: 2024 - now
+      description:
     - title: Assistant Professor
       institution: University of Bologna, Italy
-      year: 2021 - now
+      year: 2021 - 2023
       description:
     - title: Marie Curie Research Fellow
       institution: Center for Computational Quantum Physics, Flatiron Institute, New York, US
-      year: 2021 - now
+      year: 2021 - 2022
       description:
     - title: Akademisher Rat
       institution: University of Wuerzburg, Germany
