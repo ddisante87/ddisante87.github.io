@@ -20,9 +20,9 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
+        # Select Bundler before dependency resolution; 2.5 supports Ruby 3.0.
+        bundler: '2.5.23'
         bundler-cache: true
-    - name: Update Bundler to avoid uri gem conflict
-      run: gem install bundler
     - name: Install deps
       run: |
         npm install -g mermaid.cli
@@ -41,4 +41,4 @@ jobs:
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
