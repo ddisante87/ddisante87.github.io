@@ -20,9 +20,17 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        # Select Bundler before dependency resolution; 2.5 supports Ruby 3.0.
+        # Update the package loader too, so its URI does not conflict with the site's.
+        rubygems: '3.5.23'
         bundler: '2.5.23'
         bundler-cache: true
+    - name: Verify Ruby dependencies
+      run: |
+        ruby --version
+        gem --version
+        bundle --version
+        bundle exec ruby -ruri -e 'puts "Loaded URI #{URI::VERSION}"'
+        bundle exec jekyll --version
     - name: Install deps
       run: |
         npm install -g mermaid.cli
