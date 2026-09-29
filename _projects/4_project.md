@@ -9,7 +9,7 @@ category: research
 
 Superconductivity emerges when electrons form coherent pairs. My research investigates how electronic interactions, orbital character, and lattice geometry select the structure of those pairs. Using first-principles models and many-body calculations, I study alternatives to conventional phonon-mediated pairing and identify signatures that can help experiments distinguish competing superconducting states.
 
-## Pairing on the kagome lattice
+## Pairing on the kagome lattic
 
 In the AV<sub>3</sub>Sb<sub>5</sub> family (A = K, Rb, Cs), superconductivity develops in an electronic structure with several nearby van Hove singularities. Our **Physical Review Letters (2021)** study showed how the distribution of electronic states across kagome sublattices, together with nonlocal Coulomb repulsion, affects the favoured pairing symmetry. This provides a microscopic framework for understanding competing superconducting instabilities rather than assigning a universal pairing state to the entire family.
 
