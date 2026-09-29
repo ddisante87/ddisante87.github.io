@@ -1,32 +1,43 @@
 ---
 layout: page
-title: kagome metals
-description: The fascinating physics of the kagome lattices
+title: Kagome metals
+description: How lattice geometry shapes electronic order and topology
 img: assets/img/kagome.jpg
-importance: 1
+importance: 2
 category: research
 ---
 
-> The kagome lattice has emerged as a prototypical playground for sought-after quantum phenomena of electronic matter. In fact, from the viewpoint of bandstructure and itinerant electrons, the kagome lattice offers a whole variety of appealing features. These range from Dirac cones and van Hove singularities to flat band, where the latter has been suggested as a natural host for ferromagnetism thanks to the quenching of kinetic energy and increase of the density of states, as well as for topological physics. Kagome Dirac cones, on the other hand, have become a paradigmatic tool to accomplish correlated Dirac fermions, possibly leading to hydrodynamic electron flows meeting the criteria for accessing the turbulent regime. Most recently, exotic electron instabilities have been reported at, or close to, van Hove filling, where the nesting properties of the kagome Fermi surface, combined with its sublattice interference, are preeminently suited for enhancing exotic two-particle effective interaction profiles.
+A kagome lattice is a network of corner-sharing triangles. In a metal, this geometry can produce flat bands, Dirac crossings, and van Hove singularities, bringing electronic interactions and topology into close competition. My research combines realistic electronic structure calculations, many-body methods, and spectroscopy to understand which features control the resulting phases.
 
-Kagome systems represent an exciting direction of modern condensed matter physics, and here a list of my works in this field.
+Our review [Kagome metals](https://doi.org/10.1103/1g9n-wm38), published in *Reviews of Modern Physics* **98**, 015002 (2026), brings together the theoretical foundations and experimental progress across these material families.
 
-1. <a href='https://www.nature.com/articles/s41467-020-17663-x'>Turbulent hydrodynamics in strongly correlated Kagome metals</a> (2020)
-2. <a href='https://doi.org/10.1088%2F2515-7639%2Fab713b'>Kagome metal-organic frameworks as a platform for strongly correlated electrons</a> (2020)
-3. <a href='https://link.aps.org/doi/10.1103/PhysRevLett.127.177001'>Nature of Unconventional Pairing in the Kagome Superconductors AV3Sb5 (A = K;Rb;Cs)</a> (2021)
-4. <a href='https://link.aps.org/doi/10.1103/PhysRevB.105.165146'>Van Hove tuning of AV3Sb5 kagome metals under pressure and strain</a> (2022)
-5. <a href='https://www.nature.com/articles/s41567-021-01451-5'>Twofold van Hove singularity and origin of charge order in topological kagome superconductor CsV3Sb5</a> (2022)
-6. <a href='https://arxiv.org/abs/2203.05038'>Electronic correlations and universal long-range scaling in kagome metals</a> (2022)
+## Electronic nematicity and orbital selectivity
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome_Comin.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A visualization of the zero-energy electronic states — also known as a Fermi surface — from the kagome material studied in <a href='https://www.nature.com/articles/s41567-021-01451-5'>Nature Physics 18, 301 (2022)</a> (Credits: Riccardo Comin, MIT).
-</div>
+Electrons can spontaneously favour one direction even when the crystal has a higher rotational symmetry. In CsTi<sub>3</sub>Bi<sub>5</sub>, we combined polarization-dependent photoemission with functional renormalization group calculations to identify an orbital-selective deformation of the electronic structure. The results support a correlation-driven Pomeranchuk instability: a change in electronic symmetry without enlarging the crystal's unit cell.
 
-Divulgation and Outreach:
+[Pomeranchuk instability from electronic correlations in CsTi3Bi5 kagome metal](https://doi.org/10.1038/s41467-025-67037-4) · *Nature Communications* **17**, 325 (2026; published online in December 2025).
 
-<a href='https://news.mit.edu/2022/physicists-discover-secret-sauce-behind-exotic-properties-new-quantum-material-0121'>Physicists discover "secret sauce" behind exotic properties of a new quantum material</a>
+## Quantum geometry and magnetic response
+
+Our work on bilayer kagome metals links spin-orbit coupling to the separation of a nearly flat band from a dispersive Dirac band. Spin- and orbital-sensitive photoemission revealed signatures of spin Berry curvature, which characterizes the geometry of electronic states. In ScV<sub>6</sub>Sn<sub>6</sub>, those signatures persist through the charge-ordering transition.
+
+A subsequent study of TbV<sub>6</sub>Sn<sub>6</sub> connected spin Berry curvature to a strongly enhanced orbital Zeeman effect: the response of electronic orbital motion to an applied magnetic field. Together, these studies show how quantum geometry becomes accessible through spectroscopy and magnetic-field tuning.
+
+- [Flat band separation and robust spin Berry curvature in bilayer kagome metals](https://doi.org/10.1038/s41567-023-02053-z) · *Nature Physics* **19**, 1135–1142 (2023).
+- [Spin Berry curvature-enhanced orbital Zeeman effect in a kagome metal](https://doi.org/10.1038/s41567-024-02487-z) · *Nature Physics* **20**, 1103–1109 (2024).
+
+## Probing correlations with light
+
+In **Advanced Materials (2026)**, we reported an anomalous spin-optical helical effect in CsTi<sub>3</sub>Bi<sub>5</sub>. The measured signal depends on the interplay between light helicity and the electrons' spin and orbital degrees of freedom. It provides an indirect probe of electronic correlations, with signatures compatible with proposed loop-current states; it does not by itself establish their existence.
+
+[Anomalous Spin-Optical Helical Effect in Ti-Based Kagome Metal](https://doi.org/10.1002/adma.202522533) · *Advanced Materials* **38**, e22533 (2026).
+
+## Tuning charge order
+
+Lattice distortions provide another way to control collective electronic behaviour. Combining time-resolved optical spectroscopy with first-principles calculations, we showed how uniaxial strain enhances charge-density-wave properties in ScV<sub>6</sub>Sn<sub>6</sub>. This work connects the ordered state to the vibrations of the lattice and demonstrates a practical tuning parameter for its dynamics.
+
+[Strain-Induced Enhancement of the Charge Density Wave in the Kagome Metal ScV6Sn6](https://doi.org/10.1103/PhysRevLett.134.066501) · *Physical Review Letters* **134**, 066501 (2025).
+
+The related question of electron pairing is discussed on the [unconventional superconductivity page]({{ '/projects/4_project/' | relative_url }}).
+
+[All publications]({{ '/publications/' | relative_url }}) · [Research overview]({{ '/projects/' | relative_url }})
