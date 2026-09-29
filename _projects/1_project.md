@@ -1,93 +1,43 @@
 ---
 layout: page
-title: Machine Learning for Quantum Physics 
-description: Exploring Artificial Intelligence for Many Body Quantum Systems
+title: Machine learning for quantum physics
+description: Learning compact representations of interacting electrons
 img: assets/img/MLforPhysics.jpg
 importance: 1
 category: research
 ---
 
-Artificial intelligence and quantum materials are now revolutionizing
-the way we relate to the world. The first, in its machine learning and
-deep learning facets, is now present in every aspect of our lives, from
-smartphones to automation in our homes. Quantum materials, obeying the
-bizarre rules of quantum mechanics, promise instead to play a
-fundamental role in the field of new technologies and sustainable
-energies.
+Calculating the collective behaviour of electrons requires tracking an enormous amount of information. My work asks how much of that information is essential, and how machine learning can uncover representations that make many-body calculations more efficient and physically interpretable. This connects the study of magnetism and superconductivity with the development of electronic structure methods.
 
-However, it is not easy to imagine a meeting point between these two
-revolutionary spheres. Nevertheless, more and more often in recent
-years, artificial intelligence and the quantum description of the world
-around us have intersected, thus giving rise to new methods for studying
-the microscopic behavior of matter.
+## Learning the flow of electronic interactions
 
-Phenomena and properties such as magnetism and superconductivity owe
-their origin to the way elementary particles, electrons, interact with
-each other. The description of these interactions, and the
-phenomenologies that emerge from them, have occupied the minds of the
-best physicists for more than a century. Many theoretical models have
-thus been developed, but none of them has so far been able to give a
-definite answer to the "many electron problem".
+The functional renormalization group follows how effective interactions change as an energy or temperature scale is lowered. In our **Physical Review Letters (2022)** study of the two-dimensional Hubbard model, we used neural ordinary differential equations to learn this evolution in a compact latent space. The reduced description captured distinct magnetic and superconducting regimes, while an independent analysis of the dynamics supported the existence of a small number of important modes.
 
-**Deep Learning the Functional Renormalization Group**
+This was a demonstration of compression for a specific many-body problem, opening a route to more tractable representations of the interaction vertex: the object that describes how pairs of electrons scatter.
 
-One of the most versatile of these methods is the so-called functional
-renormalization group, which was born on the basis of that fundamental
-theoretical construction that is the renormalization group, for which
-Kenneth G. Wilson won the Nobel Prize for physics in 1982. A little more
-in detail, the way in which electrons "communicate" with each other is
-formalized through a very large number of so-called coupled differential
-equations, up to tens of millions. The latter form the essential
-mathematical language of the physical interpretation of all natural
-phenomena, from the movement of celestial stars, to weather forecasts,
-right up to the quantum behavior of elementary particles.
-
-> Our research work has shown, for the first time, how these differential
-> equations can be efficiently described, and above all simplified,
-> through suitable neural networks that form the basis of the so-called
-> deep learning. Hence the title of the publication <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402'>Deep learning the
-> functional renormalization group</a>. Furthermore,
-> since the functional renormalization group provides a temporal dynamics
-> in the so-called *renormalization time*, which in our case is the
-> temperature of the interacting electron system, the problem has also
-> been analyzed in the context of Koopman's spectral theory, which in the
-> last decade it has emerged as the dominant perspective in the study of
-> non-linear dynamical systems.
+[Deep Learning the Functional Renormalization Group](https://doi.org/10.1103/PhysRevLett.129.136402) · *Physical Review Letters* **129**, 136402 (2022).
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/architecture.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/architecture.jpg" alt="Neural-network architecture for compressing functional renormalization group flows" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption">
-    The deep learning architecture used in the publication.
+  The neural-network architecture used to learn a compact description of the renormalization group flow in our 2022 study.
 </div>
 
-> The work is the result of the Marie Curie **BITMAP** research project, funded by the European community under the Horizon 2020 initiative, of which the University of Bologna is a beneficiary through the Department of Physics.
+## Interpretable compression
 
-The work was carried out mainly in New York, at the
-prestigious Center for Computational Quantum Physics of the Flatiron
-Institute of the Simons Foundations, during the so-called outgoing phase
-of the project. The main purpose of the
-BITMAP project is precisely to explore possible applications of
-artificial intelligence and machine learning in the context of
-describing the interaction between electrons in quantum materials.
+Our follow-up work compared principal component analysis with nonlinear autoencoders for representing the two-particle vertex. In the systems studied, a small set of principal components reconstructed the vertex across different regimes and generalized better beyond the training data than the autoencoders. The comparison also exposed differences between the fluctuations associated with ferromagnetism, antiferromagnetism, and superconductivity. It illustrates why physical insight and generalization are as important as compression alone.
 
-Divulgation and outreach:
+[Machine learning-based compression of quantum many body physics](https://doi.org/10.1088/2632-2153/ad9f20) · *Machine Learning: Science and Technology* **5**, 045076 (2024).
 
-<a href='https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations'>Artificial Intelligence Reduces a 100,000-Equation Quantum Physics Problem to Only Four Equations</a>
+## Neural networks for density functionals
 
-<a href='https://www.insidequantumtechnology.com/news-archive/how-artificial-intelligence-is-reducing-100000-equations-in-a-quantum-physics-problem-to-only-4-equations'>How Artificial Intelligence is Reducing 100,000 Equations in a Quantum Physics Problem to Only 4 Equations</a>
+In **Physical Review Research (2025)**, we extended this approach to density functional theory. We developed neural-network representations of orbital-dependent exchange-correlation functionals that respect spatial symmetries and allow their derivatives to be evaluated through automatic differentiation. Tests on molecular datasets demonstrated how orbital dependence associated with the kinetic energy density can be removed while retaining transferability across the systems examined. This provides a route toward simpler calculations of potentials, forces, and response functions.
 
-<a href='https://magazine.unibo.it/archivio/2022/10/10/fisica-quantistica-da-100-000-a-quattro-equazioni-grazie-all2019intelligenza-artificiale'>Fisica quantistica: da 100.000 a quattro equazioni, grazie all’intelligenza artificiale</a>
+[Neural network distillation of orbital dependent density functional theory](https://doi.org/10.1103/PhysRevResearch.7.023113) · *Physical Review Research* **7**, 023113 (2025).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Vertex.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A visualization of a mathematical apparatus used to capture the physics and behavior of electrons moving on a lattice. Each pixel represents a single interaction between two electrons. Until now, accurately capturing the system required around 100,000 equations — one for each pixel. Using machine learning, scientists reduced the problem to just four equations. That means a similar visualization for the compressed version would need just four pixels.
-</div>
+The early renormalization-group work formed part of my Marie Curie **BITMAP** fellowship. An accessible account is available from the [Simons Foundation](https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations/).
 
-<a href='https://aps.altmetric.com/details/136436512'>Altmetric</a>
+[All publications]({{ '/publications/' | relative_url }}) · [Research overview]({{ '/projects/' | relative_url }})
