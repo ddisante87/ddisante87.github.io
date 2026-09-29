@@ -1,63 +1,48 @@
 ---
 layout: page
-title: new quantum materials in 2D
-description: The strangeness of the quantum world in low-dimensions
+title: Topology and quantum materials
+description: From atomically thin materials to orbital textures and correlated topology
 img: assets/img/quantum_materials.jpg
-importance: 1
+importance: 3
 category: research
 ---
 
+Topology describes properties of electronic states that cannot change continuously without a qualitative transformation of the system. My work investigates how these properties emerge in real materials, how interactions modify them, and how they can be identified experimentally. Atomically thin layers provide a particularly direct setting for connecting crystal structure, spin-orbit coupling, and electronic behaviour.
 
-## Indenene: a triangular lattice with emerging honeycomb physics
+## Indenene and the limits of edge-state protection
 
-We have conceived and realized a new quantum material: "Indenene". It consists of a single layer of the chemical element Indium, and enriches the family of the so-called topological insulators.
+Our work on **indenene**, a single layer of indium on silicon carbide, established a route to quantum spin Hall physics on a triangular lattice. The orbital structure produces an effective honeycomb connectivity, illustrating how the electronic behaviour of a material can go beyond its atomic geometry.
 
-> The triangular lattice behind its tailor-made materials-design concept is not only novel in the context of topological quantum materials, but it also offers important advantages for future applications. Ever since the discovery of the first topological insulator, this class of materials has been attributed enormous potential for the development of future electronics going beyond state-of-the-art technology and possibly even for the realization of quantum computers.
+More recently, we examined how robust its conducting edges actually are. Combining scanning tunnelling spectroscopy with theory, our **Nature Communications (2025)** study identified backscattering between different Kramers pairs in regions where several edge channels coexist. Regions with a single pair retain their protection against elastic, non-magnetic backscattering. The result clarifies why observing a band that crosses a topological gap is not, on its own, enough to establish backscattering-free transport.
 
-The low-energy electronic properties of Indenene are well described by chiral orbitals on the triangular lattice sites. The honeycomb sublattice's physics originates from the peculiar inversion symmetry breaking
-imposed by the underlying supporting substrate. The low-energy bandstructure, then, closely resembles that of heavy graphene, with a massive Dirac quasi-particle.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/indenene_bands.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Comparison of ARPES and DFT band structure of Indenene — from our manuscript <a href='https://www.nature.com/articles/s41467-021-25627-y'>Nature Communications 12, 5396 (2021)</a>.
-</div>
-
-Indenene is also peculiar since it represents the first example of an "obstructed" topological insulator, for which the topological ground state cannot be described in terms of time-reversal symmetric localized Wannier functions.
-Moreover, the concept of obstruction is intimately linked to that of higher-order topology, and our devised model of chiral orbitals on the triangular lattice offers a perfect playground.
+- [Design and realization of topological Dirac fermions on a triangular lattice](https://doi.org/10.1038/s41467-021-25627-y) · *Nature Communications* **12**, 5396 (2021).
+- [Backscattering in topological edge states despite time-reversal symmetry](https://doi.org/10.1038/s41467-025-63572-2) · *Nature Communications* **16**, 8209 (2025).
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/indenene_obstructed.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/indenene_bands.png" alt="Comparison of measured and calculated electronic band structures of indenene" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption">
-    (left) Numerical evidence for "obstruction" of the quantum spin-Hall phase — from <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.195143'>Phys. Rev. B 106, 195143 (2022)</a>. (right) The energy spectrum of a finite-size triangular high-order topological insulator - from <a href='https://arxiv.org/abs/2207.01359'>arXiv:2207.01359 (2022)</a>.
-</div> 
-
-Divulgation and Outreach:
-
-<a href='https://www.ctqmat.de/en/news/2021-09-14-triangular-honeycombs-physicists-design-novel-quantum-material'>Triangular Honeycombs: Physicists design novel quantum material</a>
-
-
-## Bismuthene and Topology - aka the secret sauce for exciting excitons
-
-The physics of a quasiparticle called an exciton — responsible for transferring energy within devices such as solar cells and LEDs — has been understood for decades. In essence, excitons are excited particles that form when negatively charged electrons bind to positively charged holes. Electron correlations are the glue responsible for such a bound state. Besides excitons, electron correlation is at the heart of phenomena such as magnetism and superconductivity, and we aim to blend it seamlessly with topology, a new paradigm for quantum materials.
-
-> Topology and excitons have hitherto eluded a clear connection. Now we found the first evidence of an existing relationship. The protagonist of this research is Bimsuthene, the tycoon of topological insulators discovered in 2018 in Wuerzburg and a heavy sibling of graphene. Bismuthene features unique properties among topological insulators, such as a huge gap that allows for a tightly-bound exciton. The work relied on the first-ever optical excitation in a topological insulator and sought a connection between photonics and topological electronics. This research was made possible by marrying an outstanding experimental technique known as spatially-resolved photo-modulated reflectivity with cutting-edge many-body modeling.  
-
-The reported evidence of an exciton in a topological quantum material is the starting point for exploring the role of topology in optical applications. It stands as the first groundbreaking advance in understanding topology's role in bound electron-hole pairs. Under this light, topology represents the "secret sauce" whose action still deserves future investigations but undoubtedly enriches the exciting field of excitons.
-
-The work was supported by the Wuerzburg SFB ToCoTronics, the Wuerzburg-Dresden cluster of excellence ct.qmat, the Polish National Science Center, and of course the European Union's Horizon 2020 research and innovation program wit my BITMAP project. The research is published in the journal <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications</a>.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bismuthene_excitons.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  Measured and calculated band structures of indenene, from our 2021 Nature Communications study.
 </div>
-<div class="caption">
-    (left) Photo-modulated reflectivity showing two clear excitonic absorption peaks and (right) A exciton's wavefunction — from <a href='https://www.nature.com/articles/s41467-022-33822-8'>Nature Communications 13, 6313 (2022)</a> (Credits for the inset: Marcin Syperek and Pawel Holewa).
-</div> 
+
+## Excitons in a topological monolayer
+
+Excitons are bound electron-hole pairs that shape how a material absorbs light. In bismuthene on silicon carbide, optical measurements and many-body calculations established that these bound states survive at room temperature within a quantum spin Hall material. The result brings optical excitations and topological electronic structure into the same atomically thin platform, motivating the study of how band geometry influences electron-hole binding and optical selection rules.
+
+[Observation of room temperature excitons in an atomically thin topological insulator](https://doi.org/10.1038/s41467-022-33822-8) · *Nature Communications* **13**, 6313 (2022).
+
+## Imaging orbital textures
+
+The connection between topology and spectroscopy also extends to three-dimensional materials. In **Physical Review X (2025)**, we combined soft X-ray photoemission with first-principles theory to image orbital vortex lines in a topological semimetal. These lines trace a winding of orbital angular momentum in momentum space and reveal the structure surrounding a Weyl nodal line. The work provides a way to connect the orbital character of electronic wave functions with measurable spectroscopic patterns.
+
+[Imaging Orbital Vortex Lines in Three-Dimensional Momentum Space](https://doi.org/10.1103/PhysRevX.15.011032) · *Physical Review X* **15**, 011032 (2025).
+
+## Topology in the presence of strong correlations
+
+Strong interactions can invalidate a description based on independent-electron bands. Our work on topological Mott insulators instead uses zeros of the electronic Green's function to characterize these phases. The theory predicts boundary zeros and shows how they can suppress conventional edge states at an interface between a topological band insulator and a topological Mott insulator. This extends the study of bulk-boundary correspondence into the regime of strong electronic correlations.
+
+[Mott insulators with boundary zeros](https://doi.org/10.1038/s41467-023-42773-7) · *Nature Communications* **14**, 7531 (2023).
+
+[All publications]({{ '/publications/' | relative_url }}) · [Research overview]({{ '/projects/' | relative_url }})
